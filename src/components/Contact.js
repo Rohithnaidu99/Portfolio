@@ -21,7 +21,7 @@ export const Contact = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <h2>Thanks for Visiting my Portfolio</h2>
+                <h2>Thanks For Visiting my Portfolio</h2>
                 <form >
                   <Row>
                     
