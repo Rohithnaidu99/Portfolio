@@ -57,7 +57,7 @@ export const Banner = () => {
                 <span className="tagline">Welcome to My Portfolio</span>
                 <h1>{`Hi! I'm Rohith`}</h1> 
                 <h1 className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer"]' height=""><span className="wrap">{text}</span></h1>
-                  <p>I'm a very ambitious Full Stack developer looking for a role in an
+                  <p>I'm a very ambitious React developer looking for a role in an
             established IT company with the opportunity to work with the latest
             technologies on challenging and diverse projects.I'm quiet confident, naturally curious, and perpetually working on
             improving my chops one design problem at a time.</p>
